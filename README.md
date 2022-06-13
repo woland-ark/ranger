@@ -1,4 +1,7 @@
 # ranger
+![My Image](ranger.png)
+![My Image](ranger2.png)
+
   <ul>
     <li>My Ranger setup </li>
 <li>File integration configurations</li>
